@@ -69,23 +69,22 @@ label {
   margin-bottom: 30px;
 }
 
-.carica1 {
+.carica {
   height: 30px;
+  border-radius: 5px;
+}
+
+.carica1 {
   width: 350px;
   background-color: rgb(238, 166, 84);
-  border-radius: 5px;
 }
 
 .carica2 {
-  height: 30px;
   width: 600px;
   background-color: rgb(28, 179, 28);
-  border-radius: 5px;
 }
 
 .carica3 {
-  height: 30px;
   width: 180px;
   background-color: rgb(161, 56, 52);
-  border-radius: 5px;
 }
