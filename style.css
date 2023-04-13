@@ -1,0 +1,91 @@
+* {
+  font-family: "Gilroy-Medium", sans-serif;
+  color: white;
+}
+
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 35px auto;
+  width: 1200px;
+  border-radius: 20px;
+}
+
+.logo {
+  display: block;
+  height: 110px;
+  width: 250px;
+  margin: 0px auto;
+  padding-top: 100px;
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(37, 224, 37);
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.buttonbox {
+  background-color: rgb(37, 224, 37);
+  width: 1000px;
+  margin: 0 auto;
+  height: 50px;
+  text-align: center;
+  border-radius: 1px;
+}
+
+.buttons {
+  display: inline-block;
+  margin: 15px 0px;
+}
+
+button {
+  margin: auto 0px;
+  color: black;
+}
+
+p {
+  margin: 5px 0;
+}
+
+.scooters {
+  margin: 25px auto;
+  width: 1000px;
+  padding-bottom: 100px;
+}
+
+label {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.scooterbox {
+  margin-bottom: 30px;
+}
+
+.carica1 {
+  height: 30px;
+  width: 350px;
+  background-color: rgb(238, 166, 84);
+  border-radius: 5px;
+}
+
+.carica2 {
+  height: 30px;
+  width: 600px;
+  background-color: rgb(28, 179, 28);
+  border-radius: 5px;
+}
+
+.carica3 {
+  height: 30px;
+  width: 180px;
+  background-color: rgb(161, 56, 52);
+  border-radius: 5px;
+}
